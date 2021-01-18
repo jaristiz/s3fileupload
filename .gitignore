@@ -5,8 +5,8 @@
 *.so
 *.dylib
 
-./publish
-./.vscode
+**/publish
+**/.vscode
 # Test binary, built with `go test -c`
 *.test
 
